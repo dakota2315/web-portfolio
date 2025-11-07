@@ -6,6 +6,7 @@ This projects uses the GitHub Pages feature!
 
 ---------
 
-I created a page using only HTML5 that can be acccesed by any Internet Browser and see it as a web page
+In 2020 I created a page using only HTML5 that can be acccesed by any Internet Browser and see it as a web page;
+this was my first time using github pages when I was Temple University student (just lost access to my first github, so I ported here)
 
 just point to https://dakota2315.github.io/web-portfolio/
